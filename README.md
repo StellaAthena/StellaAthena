@@ -7,7 +7,7 @@ I'm a mathematician, theoretical computer scientist, and alignment researcher.
 - 😄 Pronouns: she/her
 
 ### Catch me on:
-<a href = 'https://scholar.google.com/citations?user=bO7H0DAAAAAJ&hl=en'> <img width = '26px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png"/></a> Stella Biderman      <a href = 'https://www.github.com/stellaathena'> <img width = '26px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> @BlancheMinerva      <a href = 'https://math.stackexchange.com/users/123230/stella-biderman'> <img width = '26px' align= 'center' src="https://cdn.sstatic.net/Sites/math/Img/apple-touch-icon.png?v=0ae50baa40ed"/></a> Stella Biderman
+<a href = 'https://scholar.google.com/citations?user=bO7H0DAAAAAJ&hl=en'> <img width = '26px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png"/></a> [Stella Biderman](https://scholar.google.com/citations?user=bO7H0DAAAAAJ&hl=en)      <a href = 'https://www.github.com/stellaathena'> <img width = '26px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> [@BlancheMinerva](https://www.github.com/stellaathena)      <a href = 'https://math.stackexchange.com/users/123230/stella-biderman'> <img width = '26px' align= 'center' src="https://cdn.sstatic.net/Sites/math/Img/apple-touch-icon.png?v=0ae50baa40ed"/></a> [Stella Biderman](https://math.stackexchange.com/users/123230/stella-biderman)
 
 ### Some stats:
 
