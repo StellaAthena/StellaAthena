@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Stella Biderman
 
 I'm a mathematician, theoretical computer scientist, and alignment researcher.
-- 🔭 I’m currently working on [GPT-NeoX](www.github.com/eleutherai/gpt-neox)
+- 🔭 I’m currently working on [GPT-NeoX](https://www.github.com/eleutherai/gpt-neox)
 - 🤔 I’m looking for help with geometric deep learning 
 - 💬 Ask me about massive language models 
 - 😄 Pronouns: she/her
