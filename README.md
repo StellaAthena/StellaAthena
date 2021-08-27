@@ -13,4 +13,4 @@ I'm a mathematician, theoretical computer scientist, and alignment researcher.
 
 ![Profile views](https://gpvc.arturio.dev/stellaathena)
 
-![GitHub stats](![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=StellaAthena&count_private=true&show_icons=true&theme=nightowl))
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=StellaAthena&count_private=true&show_icons=true&theme=nightowl)
