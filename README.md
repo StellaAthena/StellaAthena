@@ -1,8 +1,8 @@
 # Hi there 👋, my name is Stella Biderman
 
 I'm a mathematician and AI researcher
-- 🔭 I’m currently working on language model interpretability with [GPT-NeoX](https://www.github.com/eleutherai/gpt-neox)
-- 🤔 I’m looking for help with geometric deep learning 
+- 🔭 I’m currently working on language model interpretability with [Pythia](https://www.github.com/eleutherai/pythia)
+- 🤔 I’m looking for help with statistical models of learning dynamics and designing custom datasets to test theories about language models.
 - 💬 Ask me about massive language models 
 - 😄 Pronouns: she/her
 
